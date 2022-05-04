@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @juanmorice
-- 👀 I’m interested in programming and data analysis, materials science and cultural heritage. 
+- 👀 I’m interested in Python programming and data analysis, materials science and cultural heritage. 
 - 🌱 I’m currently learning at University of Costa Rica, Chemical Engineering Department. 
 - 📫 How to reach me: juan.morice@ucr.ac.cr or jg.moricem@gmail.com
 
